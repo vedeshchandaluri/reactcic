@@ -4,7 +4,7 @@ function App() {
   
   return (
     <>
-      <label className='mystyle'>KL University</label>
+      <label className='mystyle'>KL University, Computer Science and Engineering</label>
     </>
   )
 }
